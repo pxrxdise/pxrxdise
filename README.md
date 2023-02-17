@@ -13,8 +13,10 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linux/linux-original.svg" style="padding-right:10px;" />
 <img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/amazonwebservices/amazonwebservices-original.svg" style="padding-right:10px;" />
+<br>
 
 ## Expertise in
+
 * Celery, Django, Django Rest Framework, FastAPI, Flask, Pytest
 * RabbitMQ, AmazonMQ, Redis
 * HTTP, Websocket, Postman
