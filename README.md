@@ -1,8 +1,8 @@
 ### Hi, I'm Ilya :wave:
 
-## I'm a developer, lifelong remote worker and kind of mentor :smiley:
+## I'm a developer, a lifelong remote worker and a kind of mentor :smiley:
 
-## Languages and tools :computer:
+## Main languages and tools :computer:
 
 <img align="left" alt="HTML" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" style="padding-right:10px;"/> 
